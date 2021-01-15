@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "asgw9DMDaHxkWCfAw6wnEN",
+    "name" : "Cleanse_Versioning_Remove_Values_2",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "asgw9DMDaHxkWCfAw6wnEN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
